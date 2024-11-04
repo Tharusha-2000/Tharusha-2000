@@ -12,7 +12,7 @@
     </a>
   </p>
 
-- 🔭 I’m currently working on [Fitnesstrack](https://github.com/Tharusha-2000/FitnessTrackBackend_using_MERN.git)
+- 🔭 I’m currently working on [BrainTumorDetection](https://github.com/Tharusha-2000/BrainTumorDetection.git))
 
 - 🌱 I’m currently learning **Typescript,.NET , tailwindcss , python ,Training ML model**
 
